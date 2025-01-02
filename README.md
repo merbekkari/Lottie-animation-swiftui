@@ -41,9 +41,9 @@ LottieView(animationName: "your_animation_file_name", loopMode: .loop, animation
 
   ```
 **Controls**:
-- **Play/Pause Button: Toggles the animation's play and pause states.***
-- **Rewind Button: Decreases the animation speed.***
-- **Skip Button: Increases the animation speed.***
+- **Play/Pause Button: Toggles the animation's play and pause states.**
+- **Rewind Button: Decreases the animation speed.**
+- **Skip Button: Increases the animation speed.**
 
 **Example Code**:
   ```ruby
